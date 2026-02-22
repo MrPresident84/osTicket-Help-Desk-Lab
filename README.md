@@ -1,4 +1,3 @@
-
 # osTicket Help Desk Lab
 
 ## Objective
@@ -132,5 +131,3 @@ This lab was performed using a Windows 11 Pro VM hosted in Microsoft Azure.
 Active Directory integration references the domain controller configured in
 a separate AD lab, demonstrating how ticketing systems connect to real
 enterprise infrastructure in a Tier 1 help desk environment.
-
-
